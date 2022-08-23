@@ -1,7 +1,7 @@
 # StockAnalyzer
 A Stock Analysis Project for Making Informed Decisions
 ---
-This is a new project I am taking on in my free time to practice and further develop my python skills. Here is my brief outline for this coding project:
+This is a new project I am taking on in my free time to practice and further develop my git, python, and development skills. Here is my brief outline for this coding project:
 1. Develop a GUI using pyqt
 2. Develop the backend
 3. Use APIs to collect data about different stocks and display them in teh app
